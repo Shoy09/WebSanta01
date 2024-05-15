@@ -1,0 +1,785 @@
+{
+    "data": [
+        {
+            "idactividad": "001",
+            "descripcion": "SERVICIOS GENERALES",
+            "estado": true,
+            "nombreCorto": null,
+            "codAlterno": null,
+            "idespecie": "000",
+            "labores": [
+                {
+                    "idlabor": "001001",
+                    "descripcion": "APOYOS GENERALES",
+                    "estado": true
+                },
+                {
+                    "idlabor": "D34001",
+                    "descripcion": "CORTE HGT",
+                    "estado": true
+                },
+                {
+                    "idlabor": "D34002",
+                    "descripcion": "ENVASADO HGT",
+                    "estado": true
+                }
+            ]
+        },
+        {
+            "idactividad": "D01",
+            "descripcion": "DESTAJO FILETEO POTA",
+            "estado": true,
+            "nombreCorto": null,
+            "codAlterno": null,
+            "idespecie": "001",
+            "labores": [
+                {
+                    "idlabor": "D01001",
+                    "descripcion": "FILETEO POTA",
+                    "estado": true
+                }
+            ]
+        },
+        {
+            "idactividad": "D02",
+            "descripcion": "DESTAJO LAVADO FILETE POTA",
+            "estado": true,
+            "nombreCorto": null,
+            "codAlterno": null,
+            "idespecie": "001",
+            "labores": [
+                {
+                    "idlabor": "D02001",
+                    "descripcion": "LAVADO FILETE POTA",
+                    "estado": true
+                }
+            ]
+        },
+        {
+            "idactividad": "D03",
+            "descripcion": "DESTAJO ENVASADO FRESCOS POTA",
+            "estado": true,
+            "nombreCorto": null,
+            "codAlterno": null,
+            "idespecie": "001",
+            "labores": [
+                {
+                    "idlabor": "D03001",
+                    "descripcion": "ENVASADO FRESCOS POTA",
+                    "estado": true
+                }
+            ]
+        },
+        {
+            "idactividad": "D04",
+            "descripcion": "DESTAJO NUCA POTA",
+            "estado": true,
+            "nombreCorto": null,
+            "codAlterno": null,
+            "idespecie": "001",
+            "labores": [
+                {
+                    "idlabor": "D04001",
+                    "descripcion": "NUCA POTA",
+                    "estado": true
+                }
+            ]
+        },
+        {
+            "idactividad": "D05",
+            "descripcion": "DESTAJO COCINA POTA",
+            "estado": true,
+            "nombreCorto": null,
+            "codAlterno": null,
+            "idespecie": "001",
+            "labores": [
+                {
+                    "idlabor": "D05001",
+                    "descripcion": "COCINA POTA",
+                    "estado": true
+                }
+            ]
+        },
+        {
+            "idactividad": "D06",
+            "descripcion": "DESTAJO TROQUELADO POTA",
+            "estado": true,
+            "nombreCorto": null,
+            "codAlterno": null,
+            "idespecie": "001",
+            "labores": [
+                {
+                    "idlabor": "D06001",
+                    "descripcion": "TROQUELADO POTA",
+                    "estado": true
+                }
+            ]
+        },
+        {
+            "idactividad": "D07",
+            "descripcion": "DESTAJO EMPAQUE POTA",
+            "estado": true,
+            "nombreCorto": null,
+            "codAlterno": null,
+            "idespecie": "001",
+            "labores": [
+                {
+                    "idlabor": "D07001",
+                    "descripcion": "EMPAQUE POTA",
+                    "estado": true
+                }
+            ]
+        },
+        {
+            "idactividad": "D08",
+            "descripcion": "DESTAJO CONGELADO POTA",
+            "estado": true,
+            "nombreCorto": null,
+            "codAlterno": null,
+            "idespecie": "001",
+            "labores": [
+                {
+                    "idlabor": "D08001",
+                    "descripcion": "CONGELADO POTA",
+                    "estado": true
+                }
+            ]
+        },
+        {
+            "idactividad": "D31",
+            "descripcion": "DESTAJO FILETEO MERLUZA",
+            "estado": true,
+            "nombreCorto": null,
+            "codAlterno": null,
+            "idespecie": "002",
+            "labores": [
+                {
+                    "idlabor": "D31001",
+                    "descripcion": "FILETE GOLD",
+                    "estado": true
+                },
+                {
+                    "idlabor": "D31002",
+                    "descripcion": "HUEVERA",
+                    "estado": true
+                }
+            ]
+        },
+        {
+            "idactividad": "D32",
+            "descripcion": "DESTAJO SELECCIONADO MERLUZA",
+            "estado": true,
+            "nombreCorto": null,
+            "codAlterno": null,
+            "idespecie": "002",
+            "labores": [
+                {
+                    "idlabor": "D32001",
+                    "descripcion": "FILETE 133",
+                    "estado": true
+                },
+                {
+                    "idlabor": "D32002",
+                    "descripcion": "FILETE 133 BP",
+                    "estado": true
+                },
+                {
+                    "idlabor": "D32003",
+                    "descripcion": "TROZO",
+                    "estado": true
+                },
+                {
+                    "idlabor": "D32004",
+                    "descripcion": "HUEVERA",
+                    "estado": true
+                }
+            ]
+        },
+        {
+            "idactividad": "D33",
+            "descripcion": "DESTAJO ENVASADO MERLUZA",
+            "estado": true,
+            "nombreCorto": null,
+            "codAlterno": null,
+            "idespecie": "002",
+            "labores": [
+                {
+                    "idlabor": "D33001",
+                    "descripcion": "FILETE 133",
+                    "estado": true
+                },
+                {
+                    "idlabor": "D33002",
+                    "descripcion": "FILETE 133 BP",
+                    "estado": true
+                },
+                {
+                    "idlabor": "D33003",
+                    "descripcion": "FILETE FB 200",
+                    "estado": true
+                },
+                {
+                    "idlabor": "D33004",
+                    "descripcion": "HUEVERA",
+                    "estado": true
+                }
+            ]
+        },
+        {
+            "idactividad": "D34",
+            "descripcion": "DESTAJO CORTE MERLUZA",
+            "estado": true,
+            "nombreCorto": null,
+            "codAlterno": null,
+            "idespecie": "002",
+            "labores": [
+                {
+                    "idlabor": "D34001",
+                    "descripcion": "CORTE MERLUZA",
+                    "estado": true
+                }
+            ]
+        },
+        {
+            "idactividad": "D35",
+            "descripcion": "DESTAJO SELECCIONADO MERLUZA - APOYO",
+            "estado": true,
+            "nombreCorto": null,
+            "codAlterno": null,
+            "idespecie": "002",
+            "labores": [
+                {
+                    "idlabor": "D35001",
+                    "descripcion": "APOYO",
+                    "estado": true
+                },
+                {
+                    "idlabor": "D35002",
+                    "descripcion": "FILETE 133",
+                    "estado": true
+                },
+                {
+                    "idlabor": "D35003",
+                    "descripcion": "FILETE 133 BP",
+                    "estado": true
+                },
+                {
+                    "idlabor": "D35004",
+                    "descripcion": "TROZO",
+                    "estado": true
+                },
+                {
+                    "idlabor": "D35005",
+                    "descripcion": "HUEVERA",
+                    "estado": true
+                }
+            ]
+        },
+        {
+            "idactividad": "D36",
+            "descripcion": "DESTAJO EMPAQUE MERLUZA",
+            "estado": true,
+            "nombreCorto": null,
+            "codAlterno": null,
+            "idespecie": "002",
+            "labores": [
+                {
+                    "idlabor": "D36001",
+                    "descripcion": "FILETE SP SE",
+                    "estado": true
+                },
+                {
+                    "idlabor": "D36002",
+                    "descripcion": "HUEVERA",
+                    "estado": true
+                },
+                {
+                    "idlabor": "D36003",
+                    "descripcion": "HGT",
+                    "estado": true
+                }
+            ]
+        },
+        {
+            "idactividad": "D37",
+            "descripcion": "DESTAJO CONGELADO MERLUZA",
+            "estado": true,
+            "nombreCorto": null,
+            "codAlterno": null,
+            "idespecie": "002",
+            "labores": [
+                {
+                    "idlabor": "D37001",
+                    "descripcion": "CONGELADO MERLUZA",
+                    "estado": true
+                }
+            ]
+        },
+        {
+            "idactividad": "D90",
+            "descripcion": "DESTAJO PESCA POTA",
+            "estado": true,
+            "nombreCorto": "D.PES.POTA",
+            "codAlterno": "      ",
+            "idespecie": "001",
+            "labores": [
+                {
+                    "idlabor": "D90001",
+                    "descripcion": "PESCA POTA",
+                    "estado": true
+                }
+            ]
+        },
+        {
+            "idactividad": "D91",
+            "descripcion": "DESTAJO PESCA MERLUZA",
+            "estado": true,
+            "nombreCorto": "D.PESC.MER",
+            "codAlterno": "D91   ",
+            "idespecie": "002",
+            "labores": [
+                {
+                    "idlabor": "D91001",
+                    "descripcion": "PESCA MERLUZA",
+                    "estado": true
+                }
+            ]
+        },
+        {
+            "idactividad": "J01",
+            "descripcion": "JORNAL PERFILADO POTA",
+            "estado": true,
+            "nombreCorto": null,
+            "codAlterno": null,
+            "idespecie": "001",
+            "labores": [
+                {
+                    "idlabor": "J01001",
+                    "descripcion": "APOYO",
+                    "estado": true
+                }
+            ]
+        },
+        {
+            "idactividad": "J02",
+            "descripcion": "JORNAL ABASTECIMIENTO MP POTA",
+            "estado": true,
+            "nombreCorto": null,
+            "codAlterno": null,
+            "idespecie": "001",
+            "labores": [
+                {
+                    "idlabor": "J02001",
+                    "descripcion": "APOYO",
+                    "estado": true
+                }
+            ]
+        },
+        {
+            "idactividad": "J03",
+            "descripcion": "JORNAL ENVASADO COCIDOS POTA",
+            "estado": true,
+            "nombreCorto": null,
+            "codAlterno": null,
+            "idespecie": "001",
+            "labores": [
+                {
+                    "idlabor": "J03001",
+                    "descripcion": "APOYO",
+                    "estado": true
+                }
+            ]
+        },
+        {
+            "idactividad": "J04",
+            "descripcion": "JORNAL LAMINADO POTA",
+            "estado": true,
+            "nombreCorto": null,
+            "codAlterno": null,
+            "idespecie": "001",
+            "labores": [
+                {
+                    "idlabor": "J04001",
+                    "descripcion": "APOYO",
+                    "estado": true
+                }
+            ]
+        },
+        {
+            "idactividad": "J05",
+            "descripcion": "JORNAL PESADO POTA",
+            "estado": true,
+            "nombreCorto": null,
+            "codAlterno": null,
+            "idespecie": "001",
+            "labores": [
+                {
+                    "idlabor": "J05001",
+                    "descripcion": "APOYO",
+                    "estado": true
+                }
+            ]
+        },
+        {
+            "idactividad": "J06",
+            "descripcion": "JORNAL LAVADO FILETE POTA",
+            "estado": true,
+            "nombreCorto": null,
+            "codAlterno": null,
+            "idespecie": "001",
+            "labores": [
+                {
+                    "idlabor": "J06001",
+                    "descripcion": "APOYO",
+                    "estado": true
+                }
+            ]
+        },
+        {
+            "idactividad": "J07",
+            "descripcion": "JORNAL LAVADO AROS 7KG POTA",
+            "estado": true,
+            "nombreCorto": null,
+            "codAlterno": null,
+            "idespecie": "001",
+            "labores": [
+                {
+                    "idlabor": "J07001",
+                    "descripcion": "APOYO",
+                    "estado": true
+                }
+            ]
+        },
+        {
+            "idactividad": "J08",
+            "descripcion": "JORNAL PLAQUEADO POTA",
+            "estado": true,
+            "nombreCorto": null,
+            "codAlterno": null,
+            "idespecie": "001",
+            "labores": [
+                {
+                    "idlabor": "J08001",
+                    "descripcion": "APOYO",
+                    "estado": true
+                }
+            ]
+        },
+        {
+            "idactividad": "J09",
+            "descripcion": "JORNAL ABASTECIMIENTO POTA",
+            "estado": true,
+            "nombreCorto": null,
+            "codAlterno": null,
+            "idespecie": "001",
+            "labores": [
+                {
+                    "idlabor": "J09001",
+                    "descripcion": "APOYO",
+                    "estado": true
+                }
+            ]
+        },
+        {
+            "idactividad": "J10",
+            "descripcion": "JORNAL ABASTECIMIENTO FRESCO POTA",
+            "estado": true,
+            "nombreCorto": null,
+            "codAlterno": null,
+            "idespecie": "001",
+            "labores": [
+                {
+                    "idlabor": "J10001",
+                    "descripcion": "APOYO",
+                    "estado": true
+                }
+            ]
+        },
+        {
+            "idactividad": "J11",
+            "descripcion": "JORNAL COCINA POTA",
+            "estado": true,
+            "nombreCorto": null,
+            "codAlterno": null,
+            "idespecie": "001",
+            "labores": [
+                {
+                    "idlabor": "J11001",
+                    "descripcion": "APOYO",
+                    "estado": true
+                }
+            ]
+        },
+        {
+            "idactividad": "J12",
+            "descripcion": "JORNAL PALETEO POTA",
+            "estado": true,
+            "nombreCorto": null,
+            "codAlterno": null,
+            "idespecie": "001",
+            "labores": [
+                {
+                    "idlabor": "J12001",
+                    "descripcion": "APOYO",
+                    "estado": true
+                }
+            ]
+        },
+        {
+            "idactividad": "J31",
+            "descripcion": "JORNAL ABASTECIMIENTO MERLUZA",
+            "estado": true,
+            "nombreCorto": null,
+            "codAlterno": null,
+            "idespecie": "002",
+            "labores": [
+                {
+                    "idlabor": "J31001",
+                    "descripcion": "APOYO",
+                    "estado": true
+                }
+            ]
+        },
+        {
+            "idactividad": "J32",
+            "descripcion": "JORNAL JORNAL MERLUZA",
+            "estado": true,
+            "nombreCorto": null,
+            "codAlterno": null,
+            "idespecie": "002",
+            "labores": [
+                {
+                    "idlabor": "J32001",
+                    "descripcion": "APOYO",
+                    "estado": true
+                }
+            ]
+        },
+        {
+            "idactividad": "J33",
+            "descripcion": "JORNAL PESADO MERLUZA",
+            "estado": true,
+            "nombreCorto": null,
+            "codAlterno": null,
+            "idespecie": "002",
+            "labores": [
+                {
+                    "idlabor": "J33001",
+                    "descripcion": "APOYO",
+                    "estado": true
+                }
+            ]
+        },
+        {
+            "idactividad": "J34",
+            "descripcion": "JORNAL LAVADO AROS 7KG MERLUZA",
+            "estado": true,
+            "nombreCorto": null,
+            "codAlterno": null,
+            "idespecie": "002",
+            "labores": [
+                {
+                    "idlabor": "J34001",
+                    "descripcion": "APOYO",
+                    "estado": true
+                }
+            ]
+        },
+        {
+            "idactividad": "J35",
+            "descripcion": "JORNAL SUPERVISOR MERLUZA",
+            "estado": true,
+            "nombreCorto": null,
+            "codAlterno": null,
+            "idespecie": "002",
+            "labores": [
+                {
+                    "idlabor": "J35001",
+                    "descripcion": "APOYO",
+                    "estado": true
+                }
+            ]
+        },
+        {
+            "idactividad": "J36",
+            "descripcion": "JORNAL ENVASADO MERLUZA",
+            "estado": true,
+            "nombreCorto": null,
+            "codAlterno": null,
+            "idespecie": "002",
+            "labores": [
+                {
+                    "idlabor": "J36001",
+                    "descripcion": "APOYO",
+                    "estado": true
+                }
+            ]
+        },
+        {
+            "idactividad": "J37",
+            "descripcion": "JORNAL GLASEADO MERLUZA",
+            "estado": true,
+            "nombreCorto": null,
+            "codAlterno": null,
+            "idespecie": "002",
+            "labores": [
+                {
+                    "idlabor": "J37001",
+                    "descripcion": "APOYO",
+                    "estado": true
+                }
+            ]
+        },
+        {
+            "idactividad": "J38",
+            "descripcion": "JORNAL REVISADO MERLUZA",
+            "estado": true,
+            "nombreCorto": null,
+            "codAlterno": null,
+            "idespecie": "002",
+            "labores": [
+                {
+                    "idlabor": "J38001",
+                    "descripcion": "APOYO",
+                    "estado": true
+                }
+            ]
+        },
+        {
+            "idactividad": "J39",
+            "descripcion": "JORNAL APUNTADOR MERLUZA",
+            "estado": true,
+            "nombreCorto": null,
+            "codAlterno": null,
+            "idespecie": "002",
+            "labores": [
+                {
+                    "idlabor": "J39001",
+                    "descripcion": "APOYO",
+                    "estado": true
+                }
+            ]
+        },
+        {
+            "idactividad": "J40",
+            "descripcion": "JORNAL LAVADO CANASTILLAS 3KG MERLUZA",
+            "estado": true,
+            "nombreCorto": null,
+            "codAlterno": null,
+            "idespecie": "002",
+            "labores": [
+                {
+                    "idlabor": "J40001",
+                    "descripcion": "APOYO",
+                    "estado": true
+                }
+            ]
+        },
+        {
+            "idactividad": "J41",
+            "descripcion": "JORNAL FILETEO MERLUZA",
+            "estado": true,
+            "nombreCorto": null,
+            "codAlterno": null,
+            "idespecie": "002",
+            "labores": [
+                {
+                    "idlabor": "J41001",
+                    "descripcion": "APOYO",
+                    "estado": true
+                }
+            ]
+        },
+        {
+            "idactividad": "J43",
+            "descripcion": "JORNAL MOLIDO MERLUZA",
+            "estado": true,
+            "nombreCorto": null,
+            "codAlterno": null,
+            "idespecie": "002",
+            "labores": [
+                {
+                    "idlabor": "J43001",
+                    "descripcion": "APOYO",
+                    "estado": true
+                }
+            ]
+        },
+        {
+            "idactividad": "J44",
+            "descripcion": "JORNAL REHIELADO MERLUZA",
+            "estado": true,
+            "nombreCorto": null,
+            "codAlterno": null,
+            "idespecie": "002",
+            "labores": [
+                {
+                    "idlabor": "J44001",
+                    "descripcion": "APOYO",
+                    "estado": true
+                }
+            ]
+        },
+        {
+            "idactividad": "J45",
+            "descripcion": "JORNAL BAJADOR AROS 7KG MERLUZA",
+            "estado": true,
+            "nombreCorto": null,
+            "codAlterno": null,
+            "idespecie": "002",
+            "labores": [
+                {
+                    "idlabor": "J45001",
+                    "descripcion": "APOYO",
+                    "estado": true
+                }
+            ]
+        },
+        {
+            "idactividad": "J46",
+            "descripcion": "JORNAL PALETEO MERLUZA",
+            "estado": true,
+            "nombreCorto": null,
+            "codAlterno": null,
+            "idespecie": "002",
+            "labores": [
+                {
+                    "idlabor": "J46001",
+                    "descripcion": "APOYO",
+                    "estado": true
+                }
+            ]
+        },
+        {
+            "idactividad": "J47",
+            "descripcion": "JORNAL ALMACENAMIENTO MERLUZA",
+            "estado": true,
+            "nombreCorto": null,
+            "codAlterno": null,
+            "idespecie": "002",
+            "labores": [
+                {
+                    "idlabor": "J47001",
+                    "descripcion": "APOYO",
+                    "estado": true
+                }
+            ]
+        },
+        {
+            "idactividad": "J90",
+            "descripcion": "JORNAL TRIPULANTES",
+            "estado": true,
+            "nombreCorto": "J90       ",
+            "codAlterno": "J90   ",
+            "idespecie": "000",
+            "labores": [
+                {
+                    "idlabor": "J90001",
+                    "descripcion": "GUARDIA",
+                    "estado": true
+                }
+            ]
+        }
+    ],
+    "error": false
+}
